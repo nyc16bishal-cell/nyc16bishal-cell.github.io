@@ -2,7 +2,7 @@
 
 A multi-page personal portfolio website showcasing experience, skills, education, and projects. Built with plain HTML, CSS, and JavaScript — no build step, no dependencies, ready to deploy anywhere static sites are hosted.
 
-**Live demo:** _add your deployed URL here once hosted_
+**Live demo:** https://nyc16bishal-cell.github.io/index.html
 
 ---
 
